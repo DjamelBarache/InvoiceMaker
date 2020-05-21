@@ -1,0 +1,10 @@
+{
+  "Clients": [
+    {
+      "Id": "47f1b52e-c254-4bfb-abe9-8dccd4116089",
+      "Name": "Name",
+      "Adress": "Adress",
+      "Phone": "0101010101"
+    }
+  ]
+}
